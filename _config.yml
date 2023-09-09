@@ -21,10 +21,10 @@ author: Existential Heroism Institute
 
 navbar-links:
  Home: "www.xheroism.org"
- About: "about"
- Human Coordination Calendar: "human-coordination-calendar"
+ About: about
+ Human Coordination Calendar: human-coordination-calendar
  Resources:
- - Reading List: "reading-list"
+ - Reading List: reading-list
   
   
 
