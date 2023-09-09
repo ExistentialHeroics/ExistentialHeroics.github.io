@@ -20,7 +20,7 @@ author: Existential Heroism Institute
 ###############################################
 
 navbar-links:
- Home: "www.xheroism.org"
+ Home: index
  About: about
  Human Coordination Calendar: human-coordination-calendar
  Resources:
