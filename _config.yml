@@ -20,12 +20,13 @@ author: Existential Heroism Institute
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: ""
-    - Learn markdown: ""
-  Home: "www.xheroism.org"
-  Human Coordination Calendar: "human-coordination-calendar"
+ Home: "www.xheroism.org"
+ About: "about"
+ Human Coordination Calendar: "human-coordination-calendar"
+ Resources:
+    - Reading List: "reading-list"
+  
+  
 
 ################
 # --- Logo --- #
