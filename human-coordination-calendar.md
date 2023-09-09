@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Human Coordiantion Calendar
+title: Human Coordintion Calendar
 subtitle: Leave chance at the game table.
 ---
