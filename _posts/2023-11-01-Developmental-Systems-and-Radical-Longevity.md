@@ -1,3 +1,9 @@
+---
+layout: post
+title: Developmental Systems and Radical Longevity
+subtitle: By William James
+tags: [Technology, Values, Humanity]
+---
 # Developmental Systems and Radical Longevity
 
 In examining radical longevity technology we found that beyonds its first-order effects, it has potential to significantly impact the value landscape. The most profound impact is on the incentive-deterrent landscape. Radical longevity functions to expand the domain of rational self interest to include the very long-term, and by instrumental extension, the large scale of many others. One may choose to view the incentive set innate to biological immortality as a blessing or a curse, but a day will come where we may all bear this burden. Will it be captured by the forces of corrupt perversity, driving humanity to annihilation like the dark elves, the Drow, of R.A. Salavator’s Legend of Drizzt? Or will we establish an order of elves in touch with both the natural world and the potential for responsible innovation? It is time we decide on what our elven futures have in store. For this writing, the term elf and its derivatives refer to the humans of a world with radical longevity technology.  
