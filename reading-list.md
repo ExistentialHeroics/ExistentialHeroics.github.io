@@ -4,4 +4,6 @@ title: About
 subtitle: What is the Existential Heroism Institute?
 ---
 
-Denial of Death by Ernest Becker
+- The Denial of Death by Ernest Becker
+- Critical Path by R. Buckminster Fuller
+- Confessions of an Economic Hit Man by John Perkins
