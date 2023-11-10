@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emulation Systems & Radical Longevity
+title: Emulation Systems and Radical Longevity
 subtitle: By William James
 tags: [Technology, Values, Humanity]
 ---
