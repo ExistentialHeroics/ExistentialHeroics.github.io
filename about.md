@@ -3,6 +3,9 @@ layout: page
 title: About
 subtitle: What is the Existential Heroism Institute?
 ---
+### Description
+Existential Heroism Institute provides strategic analysis for world-scale issues along with research, reports, and educational materials to support social and environmental solutions.
+
 ### The Author 
 My name is William James. I am the founder and Execitive Director of EHI (Existential Heroism Institute).
 
