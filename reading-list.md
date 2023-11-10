@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reccomended Readings
+title: Recomended Readings
 subtitle: What is the Existential Heroism Institute?
 ---
 
